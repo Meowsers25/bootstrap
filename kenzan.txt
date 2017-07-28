@@ -1,0 +1,38 @@
+grid container
+grid lines row axis/column axis
+grid tracks row or column
+grid cells... defined by where grid lines intersect
+
+parent(grid container)
+    display
+    grid-gap
+    grid template areAS
+    grid template rows grid template columns
+    fr unit
+    minmax
+    repeat
+    
+child(grid item)
+    grid area
+    
+    http://bit.ly/2utX5oh
+    
+    FLEXBOX
+    
+Parent
+    display
+    flex-direction
+    flex-wrap
+    justify-content
+    align-items
+    
+    
+Child
+    order
+    flex-grow
+    flex-shrink
+    
+
+    
+    
+    
